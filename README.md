@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hellowo, I'm Moko
 #### I'm a random person who do some code
-it's me btw ▼
+it's me btw ▹
 ![I'm a random person who do some code](https://github.com/windows9x95/windows9x95/raw/main/sakura.gif)
 
 I can do a few things like a few lines of c++, a few classes of java and a few python scripts '^^
