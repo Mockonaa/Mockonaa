@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hellowo, I'm Moko
+### Hellowo, I'm Sakura
 #### I'm a random person who do some code
 it's me btw ▹
 ![I'm a random person who do some code](https://github.com/windows9x95/windows9x95/raw/main/sakura.gif)
