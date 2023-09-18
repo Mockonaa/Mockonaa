@@ -19,7 +19,6 @@ it's me btw ▹
 
 I can do a few things like a few lines of c++, a few classes of java and a few python scripts '^^
 
-- 🔭 I’m currently working on my minecraft mod :) 
 - 📕 I’m currently learning Java 
 - ❤ Fun fact: I'm working from Yuuko's shop with Watanuki :) 
 
