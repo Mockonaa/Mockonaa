@@ -1,26 +1,12 @@
-<!--
-**windows9x95/windows9x95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hellowo, I'm Sakura
-#### I'm a random person who do some code
+### Hi there, I'm Mocko
+#### I'm a random person who do some code!
 it's me btw ▹
 ![I'm a random person who do some code](https://github.com/Mockonaa/Mockonaa/raw/main/sakura.gif)
 
 I can do a few things like a few lines of c++, a few classes of java and a few python scripts '^^
 
-- 📕 I’m currently learning Java 
-- ❤ Fun fact: I'm working from Yuuko's shop with Watanuki :) 
+- 📕 I’m currently learning C++ (a lil bit more than the basics) 
+- ❤ Fun fact: I'm a marketable plushie! (yeah, I'm really a fumo (●'◡'●))
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mockonaa)  
